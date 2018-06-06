@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Doodle Jump</string>
+    <string name="stop">Stop</string>
+    <string name="start_game">Start Game</string>
+    <string name="about_me">About Me</string>
+    <string name="created_by">Created by</string>
+    <string name="play_again">Play again</string>
+    <string name="score_label">Score:</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="player_name_hint">Name</string>
+    <string name="enter_your_name_label">Enter your name…</string>
+    <string name="back">Back</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="enter_name">Please enter a name…</string>
+    <string name="name_in_use">Name already in use…</string>
+    <string name="creator">Ralf Abel</string>
+</resources>
