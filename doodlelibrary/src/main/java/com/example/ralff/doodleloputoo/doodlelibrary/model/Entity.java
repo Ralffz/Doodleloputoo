@@ -4,7 +4,7 @@ import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.RectF;
 
-import com.example.ralff.doodleloputoodoodlelibrary.graphics.animation.Animation;
+import com.example.ralff.doodleloputoo.doodlelibrary.graphics.animation.Animation;
 import com.example.ralff.doodleloputoo.doodlelibrary.graphics.animation.AnimationFrame;
 import com.example.ralff.doodleloputoo.doodlelibrary.graphics.view.DoodleSurfaceView;
 import com.example.ralff.doodleloputoo.doodlelibrary.logic.ScrollingCamera;
@@ -25,7 +25,6 @@ public class Entity {
 	
 	protected float height;
 
-	´
 	protected float velocityX;
 
 	

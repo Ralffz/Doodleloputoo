@@ -5,7 +5,7 @@ import android.graphics.Canvas;
 import android.graphics.Rect;
 import android.util.Log;
 
-import com.example.ralff.doodleloputoo.doodlelibrary.R;
+import com.anthony.marco.doodlelibrary.R;
 import com.example.ralff.doodleloputoo.doodlelibrary.graphics.AssetManager;
 import com.example.ralff.doodleloputoo.doodlelibrary.graphics.animation.Animation;
 import com.example.ralff.doodleloputoo.doodlelibrary.listener.DoodleListener;

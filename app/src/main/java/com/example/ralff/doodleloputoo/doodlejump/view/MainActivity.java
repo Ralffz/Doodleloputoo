@@ -21,6 +21,7 @@ import com.example.ralff.doodleloputoo.doodlejump.view.fragment.GameOverlayFragm
 import com.example.ralff.doodleloputoo.doodlejump.view.fragment.MainMenuFragment;
 import com.example.ralff.doodleloputoo.doodlejump.view.fragment.ScoreboardFragment;
 import com.example.ralff.doodleloputoo.doodlelibrary.graphics.view.DoodleSurfaceView;
+import com.example.ralff.doodleloputoo.doodlelibrary.listener.DoodleListener;
 import com.example.ralff.doodleloputoo.doodlelibrary.model.Score;
 
 public class MainActivity extends Activity implements DoodleListener, UiListener {
