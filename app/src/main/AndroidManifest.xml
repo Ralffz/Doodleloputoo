@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.ralff.doodleloputoo.doodlejump.view.MainActivity"
 		android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,8 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-		    android:name=".view.AboutMeActivity"
-            android:parentActivityName=".view.MainActivity"
+        <activity
+            android:name="com.example.ralff.doodleloputoo.doodlejump.view.AboutMeActivity"
+            android:parentActivityName="com.example.ralff.doodleloputoo.doodlejump.view.MainActivity"
             android:theme="@style/AppTheme.AboutUs" />
     </application>
 

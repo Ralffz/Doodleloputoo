@@ -62,6 +62,7 @@ public class MainActivity extends Activity implements DoodleListener, UiListener
             }
         };
 
+
         doodleSurfaceView = (DoodleSurfaceView) findViewById(R.id.doodle_surface_view);
 
         hideSystemUI();
@@ -117,6 +118,8 @@ public class MainActivity extends Activity implements DoodleListener, UiListener
             scheduleIdleCallback();
         }
     }
+
+
 
     private void scheduleIdleCallback() {
         Log.i(TAG, "Starting delayed idle runnable.");
